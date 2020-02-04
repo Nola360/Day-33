@@ -59,6 +59,6 @@ const { name, age, city, greeting } = person;
 
 console.log(name, age, city);
 
-greeting();
+greeting();;
 
 
